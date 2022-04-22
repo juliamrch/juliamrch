@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julia
 - 👀 I’m interested in smart contracts
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on blogs and web3 stuff
 - 📫 How to reach me : contact@juliamarch.com
 
