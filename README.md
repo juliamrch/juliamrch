@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julia
 - 👀 I’m interested in smart contracts and cryptography
-- 🌱 I’m currently learning Python and how to stop breaking stuff
+- 🌱 I’m currently learning how to stop breaking stuff
 - 📫 How to reach me : contact@juliamarch.com
 
 <!---
