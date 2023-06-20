@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Julia
-- 👀 I’m interested in smart contracts and cryptography
+- 👀 I’m interested in smart contracts and database resilience models
 - 🌱 I’m currently learning how to stop breaking stuff
 - 📫 How to reach me : on Twitter, the house of the terminally online, of course
 
