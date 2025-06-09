@@ -7,7 +7,7 @@
 - 🪄 A pasionnate Solution Architect and Technical Writer
 - 👀 I’m interested in smart contracts and database resilience models...
 - ❤️‍🔥... but my heart belongs to CSS
-- 🌱 I’m currently learning Japanes in Kyoto
+- 🌱 I’m currently learning Japanese in Kyoto
 - 📫 Reach me by [sending me an email](mailto:hi@juliamarch.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliamrch&layout=compact&hide_progress=true&hide_border=true)
