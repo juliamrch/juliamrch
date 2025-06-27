@@ -4,7 +4,7 @@
 
 ### Hi, I’m Julia
 
-- 🪄 A pasionnate Solution Architect and Technical Writer
+- 🪄 A passionate Solution Architect and Technical Writer
 - 👀 I’m interested in smart contracts and database resilience models...
 - ❤️‍🔥... but my heart belongs to CSS
 - 🌱 I’m currently learning Japanese in Kyoto
